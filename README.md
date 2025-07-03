@@ -1,4 +1,4 @@
-# Stock-Data-Anlalysis
+# Stock-Data-Analysis
 My first python script for basic stock data analysis.
 It downloads historical stock data from Yahoo Finance using the yfinance library and analyzes stock performance over time.
 
